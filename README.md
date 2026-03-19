@@ -23,12 +23,12 @@ This project applies concepts from statistical mechanics to solve the parking op
 **25% reduction** in parking search time compared to baseline strategies.
 
 ### Policy Comparison
-![Policy Comparison](results/policy_comparison.png)
+![Policy Comparison](policy_comparison.png)
 
 TIPP consistently outperforms benchmark policies across different occupancy levels.
 
 ### Performance Metrics
-![Parking Results](results/parking_results.png)
+![Parking Results](parking_results.png)
 
 Detailed performance analysis showing search time, temperature evolution, and floor distribution.
 
